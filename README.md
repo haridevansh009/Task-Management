@@ -35,3 +35,13 @@ Tasks (Bearer token required, every query is scoped to the logged-in user):
 ## Notes
 - Password reset: 32-byte random token, only its SHA-256 hash is stored, expires in 1 hour, cleared atomically on use (single use).
 - JWT is stateless: logout only drops the token on the client, and old tokens stay valid until they expire (7 days), even after a password reset.
+- <img width="1911" height="857" alt="image" src="https://github.com/user-attachments/assets/cd0b7610-8f1f-4a77-ae28-5024d2d21c65" />
+<img width="1915" height="905" alt="image" src="https://github.com/user-attachments/assets/607aec96-dea5-4c82-bba7-36814000edcb" />
+<img width="1882" height="907" alt="image" src="https://github.com/user-attachments/assets/51ee3a15-9a28-45f4-9d78-4f21e7a28dad" />
+<img width="1577" height="855" alt="image" src="https://github.com/user-attachments/assets/cec9252b-ecc4-4a8f-9f91-2a1841fc1f73" />
+
+
+
+
+
+
